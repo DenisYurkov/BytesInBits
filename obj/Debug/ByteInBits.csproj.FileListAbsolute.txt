@@ -1,0 +1,14 @@
+C:\Users\Denis Yurkov\source\repos\ByteInBits\bin\Debug\ByteInBits.exe.config
+C:\Users\Denis Yurkov\source\repos\ByteInBits\bin\Debug\ByteInBits.exe
+C:\Users\Denis Yurkov\source\repos\ByteInBits\bin\Debug\ByteInBits.pdb
+C:\Users\Denis Yurkov\source\repos\ByteInBits\obj\Debug\ByteInBits.csprojAssemblyReference.cache
+C:\Users\Denis Yurkov\source\repos\ByteInBits\obj\Debug\ByteInBits.csproj.CoreCompileInputs.cache
+C:\Users\Denis Yurkov\source\repos\ByteInBits\obj\Debug\ByteInBits.exe
+C:\Users\Denis Yurkov\source\repos\ByteInBits\obj\Debug\ByteInBits.pdb
+D:\Programming\Project\ByteInBits\bin\Debug\ByteInBits.exe.config
+D:\Programming\Project\ByteInBits\bin\Debug\ByteInBits.exe
+D:\Programming\Project\ByteInBits\bin\Debug\ByteInBits.pdb
+D:\Programming\Project\ByteInBits\obj\Debug\ByteInBits.csprojAssemblyReference.cache
+D:\Programming\Project\ByteInBits\obj\Debug\ByteInBits.csproj.CoreCompileInputs.cache
+D:\Programming\Project\ByteInBits\obj\Debug\ByteInBits.exe
+D:\Programming\Project\ByteInBits\obj\Debug\ByteInBits.pdb
